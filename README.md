@@ -75,7 +75,7 @@ flowchart LR
 
 🖼️ Dashboard preview
 
-<img width="4000" height="1800" alt="1000012944" src="https://github.com/user-attachments/assets/17d55b51-d924-40de-b9b4-27d399ee1d40" />
+<img width="4000" height="1700" alt="1000012944" src="https://github.com/user-attachments/assets/17d55b51-d924-40de-b9b4-27d399ee1d40" />
 
 
 Practice build: cards and year slicer from the row-level table, chart from the yearly SQL table.
